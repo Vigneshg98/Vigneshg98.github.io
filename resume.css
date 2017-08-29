@@ -1,0 +1,31 @@
+body{
+    background-image: url("back.jpg");
+    background-size: 100%;
+    
+}
+.bck{
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: rgba(119, 85, 49, 0.61);
+    color: #E07D4C;
+}
+.det{
+    position: relative;
+    margin-top:1%;
+}
+.pic{
+    position: relative;
+    margin-top:-5%;
+    border-radius: 50%;
+    
+    
+}
+.icon{
+    position: relative;
+    padding-bottom:10%;
+    padding-top:3%;
+    color:rgb(176, 137, 94);
+}
+ul{
+    list-style-type: none;
+}
